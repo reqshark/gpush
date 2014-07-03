@@ -1,0 +1,23 @@
+{
+  "name": "gpush",
+  "version": "0.0.1",
+  "description": "push datagrams",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/reqshark/gpush"
+  },
+  "keywords": [
+    "datagram"
+  ],
+  "author": "Bent Cardan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reqshark/gpush/issues"
+  },
+  "homepage": "https://github.com/reqshark/gpush",
+  "main": "./",
+  "bin": {
+    "g": "./bin/gpush"
+  }
+}

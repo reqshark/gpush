@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+
+var gpush = require('..')
+
+
+gpush(process.argv,function(err,results){
+
+
+
+})
