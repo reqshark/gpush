@@ -2,7 +2,7 @@
   "name": "gpush",
   "version": "0.0.1",
   "description": "push datagrams",
-  "main": "index.js",
+  "main": "./",
   "repository": {
     "type": "git",
     "url": "git://github.com/reqshark/gpush"
@@ -10,14 +10,19 @@
   "keywords": [
     "datagram"
   ],
-  "author": "Bent Cardan",
+  "author": {
+    "name": "Bent Cardan"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/reqshark/gpush/issues"
   },
   "homepage": "https://github.com/reqshark/gpush",
-  "main": "./",
   "bin": {
     "g": "./bin/gpush"
-  }
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "gpush@0.0.1",
+  "_shasum": "8c4a8fecbb480079342a304a0efce8f432c1d294",
+  "_from": "gpush@"
 }
