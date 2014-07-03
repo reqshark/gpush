@@ -1,6 +1,6 @@
 {
   "name": "gpush",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "push datagrams",
   "main": "./",
   "repository": {
@@ -21,8 +21,5 @@
   "bin": {
     "g": "./bin/gpush"
   },
-  "readme": "ERROR: No README data found!",
-  "_id": "gpush@0.0.1",
-  "_shasum": "8c4a8fecbb480079342a304a0efce8f432c1d294",
-  "_from": "gpush@"
+  "readme": "npm i -g gpush"
 }
