@@ -13,7 +13,7 @@ module.exports = function(argvs,cb){
       server.close();
     });
     server.on('message',function(msg,rinfo){
-      console.log(msg)
+      console.log(msg);
     });
     server.on('listening',function(){
       var address = server.address();
