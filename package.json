@@ -1,8 +1,11 @@
 {
   "name": "gpush",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "push datagrams",
   "main": "./",
+  "dependencies":{
+    "glob":"*"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/reqshark/gpush"

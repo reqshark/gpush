@@ -5,6 +5,6 @@ var gpush = require('..')
 
 gpush(process.argv,function(err,results){
 
-
+  if(err)throw err;
 
 });
